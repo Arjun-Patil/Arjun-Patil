@@ -8,8 +8,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/arjunshivaji100@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="arjunshivaji100@gmail.com" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/arjunshivaji100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="arjunshivaji100" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100008171026076&viewas=100000686899395" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/capsocial-round/500/facebook-512.png" alt="arjunshivaji100@gmail.com" height="30" width="30" /></a>
+  
+<a href="https://www.hackerrank.com/arjunshivaji100" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="arjunshivaji100" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
